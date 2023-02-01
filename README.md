@@ -1,16 +1,28 @@
-### Hi there 👋
+<div align=center><h3>✏️ Tech Stack</h3></div>
 
-<!--
-**ast4onaut/ast4onaut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align=center>
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=&logoColor=white">
+  <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=&logoColor=white">
+  <br>
+  <br>
+<div align=center><h3>📝 Study</h3></div>  
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=&logoColor=white">
+  <br>
+  <br>
+<div align=center><h3>🔎 Information</h3></div>
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white"></a>
+  <a href="https://velog.io/@pi3r2ot"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"></a>
+  <br>
+  <br>
+<div align=center><h3>🛠️ Tools</h3></div>
+  <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white">
+  <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white">
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white">
+  <br>
+  <br>
+</div>
